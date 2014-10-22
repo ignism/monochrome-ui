@@ -2,14 +2,15 @@
   "name": "monochrome-ui",
   "theme": "ui",
   "main": "./lib/monochrome-ui",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "A flat cool-gray UI theme for atom.",
-  "activationEvents": ["monochrome-ui:toggle"],
+  "activationEvents": [
+    "monochrome-ui:toggle"
+  ],
   "repository": "https://github.com/ignism/monochrome-ui",
   "license": "MIT",
   "engines": {
     "atom": ">0.50.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
